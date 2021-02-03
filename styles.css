@@ -23,7 +23,7 @@ body {
   }
 
   p {
-    background-color: Red; font-size: 20px;
+    background-color: orange; font-size: 20px;
   }
   /* THIS IS THE CLASS TYPE OF SELECTOR
    WHEN THERE ARE MORE THAN 2 IMAGES AND WE WANT TO GIVE DIFFERENT
