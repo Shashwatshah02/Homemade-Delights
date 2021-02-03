@@ -1,3 +1,4 @@
+/* THIS IS THE TAG SELECTOR METHOD */
 body {
   background-color: powderblue
 }
@@ -13,6 +14,21 @@ body {
   h3 {
     color: green;
   }
-  h2 {
+  /* HEADING IS THE ID TYPE OF SELECTOR */
+  #heading {
     color: green;
   }
+  img:hover{
+    background-color: yellow;
+  }
+
+  p {
+    background-color: Red; font-size: 20px;
+  }
+  /* THIS IS THE CLASS TYPE OF SELECTOR
+   WHEN THERE ARE MORE THAN 2 IMAGES AND WE WANT TO GIVE DIFFERENT
+  STYLE TO BOTH USE THE BELOW METHOD
+  .logo {
+    background-color: yellow;
+  }
+  */
